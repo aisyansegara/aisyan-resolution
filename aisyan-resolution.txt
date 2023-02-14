@@ -1,0 +1,4 @@
+AISYAN RESOLUTION
+- Terus belajar
+- Memahami OOP PHP
+- Memahami Framework Laravel
