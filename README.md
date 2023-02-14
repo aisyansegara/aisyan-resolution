@@ -1,2 +1,2 @@
 # aisyan-resolution
-repo untuk menyimpan resolusi ke depannya
+Repo untuk menyimpan resolusi ke depannya
