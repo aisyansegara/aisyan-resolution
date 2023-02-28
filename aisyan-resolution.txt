@@ -4,4 +4,5 @@ AISYAN RESOLUTION
 - Memahami Framework Laravel
 - Lulus USK 2023
 - Lulus SMK
+- Lulus SNBP
 - Lulus PTN
